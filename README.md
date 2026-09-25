@@ -9,7 +9,7 @@ I am a Computer Science graduate from the University of Western Macedonia. I spe
 
 ### ⚙️ Current Development Pipeline
 I am currently transitioning my local development environments and my thesis research to public repositories. Upcoming commits will focus on (among others):
-- **Static Analysis Tooling:** Python-based parsers integrating local LLMs for automated binary risk assessment.
+- **Static Analysis Tooling:** Python-based parsers integrating local LLMs for automated binary risk assessment (🔧in active development).
 - **Machine Learning Scripts:** Feature extraction and data pipeline scripts related to intrusion detection.
 - **Hardware Integrations:** Configuration files and networking scripts for portable tactical setups (based on my custom-built Cyberdeck)
   
