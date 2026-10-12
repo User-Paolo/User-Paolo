@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paolo-skoti-692413437"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:www.paolo189@yahoo.com"><img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDRoMjBhMiAyIDAgMCAxIDIgMnYxMmEyIDIgMCAwIDEtMiAySDJhMiAyIDAgMCAxLTItMlY2YTIgMiAwIDAgMSAyLTJ6bTAgMnYuNWwxMCA2LjI1TDIyIDYuNVY2SDJ6bTIwIDIuODYtOS40NyA1LjkyYTEgMSAwIDAgMS0xLjA2IDBMMiA4Ljg2VjE4aDIwVjguODZ6Ii8%2BPC9zdmc%2B" alt="Email" /></a>
+  <a href="mailto:paoloskoti1089@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Portfolio-coming%20soon-555555?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio coming soon" />
 </div>
 
