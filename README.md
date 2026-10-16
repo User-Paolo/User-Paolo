@@ -28,7 +28,7 @@ A few areas I enjoy working in:
 - **Bachelor Thesis:** *Local Large Language Models for Static Malware Triage: An Evaluation Against Deterministic and Machine Learned Baselines.* Research code, datasets and results.
 - **University Projects:** Coursework from my degree, uploaded with a few additions such as tests, CI and clearer documentation.
 - **Personal Projects:** Tools and experiments I build in my own time, including hackathon entries.
-- **Labs (coming soon):** Hands on practice with networking, Linux and system administration.
+- **Labs:** Hands on practice with networking, Linux and system administration.
 
 The pinned repositories below are a good place to start.
 
